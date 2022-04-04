@@ -5,3 +5,5 @@ matplotlib
 seaborn
 Boruta
 pandasql
+deepchecks
+fast-ml
