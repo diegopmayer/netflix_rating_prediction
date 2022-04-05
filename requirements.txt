@@ -7,3 +7,6 @@ Boruta
 pandasql
 deepchecks
 fast-ml
+catboost
+lxml
+requests
