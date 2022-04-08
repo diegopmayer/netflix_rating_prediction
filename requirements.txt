@@ -10,3 +10,4 @@ fast-ml
 catboost
 lxml
 requests
+pandas-profiling
